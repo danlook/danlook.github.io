@@ -1,72 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on 阿丹歷險記</title>
+    <title>Categories on 阿丹看世界</title>
     <link>https://danlook.github.io/categories/</link>
-    <description>Recent content in Categories on 阿丹歷險記</description>
+    <description>Recent content in Categories on 阿丹看世界</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Tue, 29 Oct 2019 10:07:47 +0600</lastBuildDate><atom:link href="https://danlook.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 03 Jan 2021 20:27:00 +0800</lastBuildDate><atom:link href="https://danlook.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Android And Gaming</title>
-      <link>https://danlook.github.io/categories/android-and-gaming/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      <title>讀書心得</title>
+      <link>https://danlook.github.io/categories/%E8%AE%80%E6%9B%B8%E5%BF%83%E5%BE%97/</link>
+      <pubDate>Sun, 03 Jan 2021 20:27:00 +0800</pubDate>
       
-      <guid>https://danlook.github.io/categories/android-and-gaming/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Go Language</title>
-      <link>https://danlook.github.io/categories/go-language/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://danlook.github.io/categories/go-language/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>HTML</title>
-      <link>https://danlook.github.io/categories/html/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://danlook.github.io/categories/html/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>HTML &amp; CSS</title>
-      <link>https://danlook.github.io/categories/html-css/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://danlook.github.io/categories/html-css/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Programming Language</title>
-      <link>https://danlook.github.io/categories/programming-language/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://danlook.github.io/categories/programming-language/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Python</title>
-      <link>https://danlook.github.io/categories/python/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://danlook.github.io/categories/python/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Web Design</title>
-      <link>https://danlook.github.io/categories/web-design/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://danlook.github.io/categories/web-design/</guid>
+      <guid>https://danlook.github.io/categories/%E8%AE%80%E6%9B%B8%E5%BF%83%E5%BE%97/</guid>
       <description></description>
     </item>
     

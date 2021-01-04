@@ -1,63 +1,63 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on 阿丹歷險記</title>
+    <title>Tags on 阿丹看世界</title>
     <link>https://danlook.github.io/tags/</link>
-    <description>Recent content in Tags on 阿丹歷險記</description>
+    <description>Recent content in Tags on 阿丹看世界</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Tue, 29 Oct 2019 10:07:47 +0600</lastBuildDate><atom:link href="https://danlook.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 03 Jan 2021 20:27:00 +0800</lastBuildDate><atom:link href="https://danlook.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Game</title>
-      <link>https://danlook.github.io/tags/game/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      <title>Netflix</title>
+      <link>https://danlook.github.io/tags/netflix/</link>
+      <pubDate>Sun, 03 Jan 2021 20:27:00 +0800</pubDate>
       
-      <guid>https://danlook.github.io/tags/game/</guid>
+      <guid>https://danlook.github.io/tags/netflix/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>HTML</title>
-      <link>https://danlook.github.io/tags/html/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      <title>no rules</title>
+      <link>https://danlook.github.io/tags/no-rules/</link>
+      <pubDate>Sun, 03 Jan 2021 20:27:00 +0800</pubDate>
       
-      <guid>https://danlook.github.io/tags/html/</guid>
+      <guid>https://danlook.github.io/tags/no-rules/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>New</title>
-      <link>https://danlook.github.io/tags/new/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      <title>reading</title>
+      <link>https://danlook.github.io/tags/reading/</link>
+      <pubDate>Sun, 03 Jan 2021 20:27:00 +0800</pubDate>
       
-      <guid>https://danlook.github.io/tags/new/</guid>
+      <guid>https://danlook.github.io/tags/reading/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Photos</title>
-      <link>https://danlook.github.io/tags/photos/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      <title>review</title>
+      <link>https://danlook.github.io/tags/review/</link>
+      <pubDate>Sun, 03 Jan 2021 20:27:00 +0800</pubDate>
       
-      <guid>https://danlook.github.io/tags/photos/</guid>
+      <guid>https://danlook.github.io/tags/review/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Python</title>
-      <link>https://danlook.github.io/tags/python/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      <title>讀書心得</title>
+      <link>https://danlook.github.io/tags/%E8%AE%80%E6%9B%B8%E5%BF%83%E5%BE%97/</link>
+      <pubDate>Sun, 03 Jan 2021 20:27:00 +0800</pubDate>
       
-      <guid>https://danlook.github.io/tags/python/</guid>
+      <guid>https://danlook.github.io/tags/%E8%AE%80%E6%9B%B8%E5%BF%83%E5%BE%97/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>React</title>
-      <link>https://danlook.github.io/tags/react/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      <title>零規則</title>
+      <link>https://danlook.github.io/tags/%E9%9B%B6%E8%A6%8F%E5%89%87/</link>
+      <pubDate>Sun, 03 Jan 2021 20:27:00 +0800</pubDate>
       
-      <guid>https://danlook.github.io/tags/react/</guid>
+      <guid>https://danlook.github.io/tags/%E9%9B%B6%E8%A6%8F%E5%89%87/</guid>
       <description></description>
     </item>
     
